@@ -5,44 +5,41 @@ const Testimonials = () => {
     {
       author: 'Valerie & Chris',
       date: 'April 2014',
-      content: `First, let me say that the team in Nepal are fantastic. We can't stress enough how we appreciated the hospitality and flexibility. Bista did an excellent job coordinating the latter half of our trip...`,
+      content: ` “The team in Nepal was fantastic! Bista coordinated everything perfectly, and Shishir and Kumar tailored the routes to our riding skills. The Jungle Island Lodge was comfortable, and the staff were friendly. Everest Mountain Bike went above and beyond, cleaning our bikes and helping with laundry. A few minor communication issues, but overall a memorable trip!`,
     },
     {
       author: 'Kevin, Sally & Angus',
       date: 'March 2011',
-      trip: 'Poon Hill/Ghorepani',
-      content: `A truly great experience from start to finish...`,
+      content: ` A truly great experience from start to finish. Everest Bike made planning easy, suggested extra activities like rafting and paragliding, and ensured safety throughout. Their local knowledge and recommended accommodations made the trip unforgettable.`,
     },
     {
       author: 'St. Andrews British School, Thailand',
       date: '',
       trip: 'Trekking trails',
-      content: `• Great trails
-• Lots to see
-• Perhaps too short a trekking time on some days?...`,
+      content: `Great trekking trails with plenty to see. Hotels and guesthouses were clean and comfortable. Food choices were excellent, guides were knowledgeable and friendly, and porters worked very hard. Overall, an enriching experience for our students.`,
     },
     {
       author: 'Himalayan High',
       date: 'Nov 2013',
       trip: 'Kathmandu and Annapurna area Mountain Bike adventure – Jomsom–Muktinath–Pokhara',
-      content: `Comment: After viewing a Youtube video - Himalayan High"...`,
+      content: `“EMB tailored a fantastic mountain biking adventure for us. The routes were incredible, accommodations and food excellent, and our guide Shishir made the experience even better. Even travel hiccups were handled smoothly. We had an amazing 14-day trip and felt fully supported throughout.`,
     },
     {
       author: 'Giovanni from Italy',
       date: 'April 2014',
       trip: 'Round Annapurna Tour',
-      content: `I experienced the Annapurna mountain bike tour in April / May 2014...`,
+      content: `The Annapurna mountain bike tour was unforgettable! The landscapes were stunning, climbs were manageable, and downhill rides incredible. Everest Mountain Bike’s organization was perfect, and their guides were highly professional. A must for biking and nature lovers!`,
     },
     {
       author: 'Alisdair Craig',
       date: 'April 2017',
-      content: `I've just returned from Nepal after 4 great days of MTBing with Shishir...`,
+      content: `“Four great days of MTBing with Shishir! The team was flexible, professional, and attentive. Bista’s arrangements and quick communication made everything seamless. Highly recommended!`,
     },
     {
       author: 'Joseph Templin, USA',
       date: 'October 2026',
       trip: 'Round Annapurna with Tilicho Lake',
-      content: `Thank you! It was great seeing you...`,
+      content: `An amazing trip full of experiences beyond my expectations. The team treated me like a king, and I can’t wait to return. Sharing Nepal stories has been a joy, and I’ll bring more friends next time!`,
     },
   ];
 
