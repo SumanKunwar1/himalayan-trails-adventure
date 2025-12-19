@@ -15,7 +15,7 @@ const Specialization = () => {
             </h2>
             
             <h3 className="font-heading text-xl md:text-2xl font-semibold text-secondary mb-8">
-              The Mountain Biking Advantage
+              The Mountain Biking Adventure 
             </h3>
           </div>
           
